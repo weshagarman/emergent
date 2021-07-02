@@ -1,2 +1,3 @@
 # emergent
 E-commerce microbrand aggregator project resources.
+Trying to figure out how GitHub works...
